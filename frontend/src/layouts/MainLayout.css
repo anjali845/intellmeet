@@ -1,0 +1,22 @@
+.main-layout {
+  display: flex;
+  min-height: 100vh;
+}
+
+.main-layout__content {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-layout__page {
+  flex: 1;
+  padding: var(--space-6) var(--space-5);
+}
+
+@media (max-width: 540px) {
+  .main-layout__page {
+    padding: var(--space-5) var(--space-4);
+  }
+}

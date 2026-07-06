@@ -42,14 +42,12 @@ IntellMeet is a MERN-stack based meeting management and video conferencing platf
 
 ## Project Structure
 
-```text
 intellmeet/
 ├── frontend/
 ├── backend/
 ├── docs/
 ├── screenshots/
 └── README.md
-```
 
 ## Features
 
@@ -97,23 +95,23 @@ intellmeet/
 
 ### Login Page
 
-(Add screenshot here)
+![Login Page](./screenshots/login.png)
 
 ### Signup Page
 
-(Add screenshot here)
+![Signup Page](./screenshots/signup.png)
 
 ### Dashboard
 
-(Add screenshot here)
+![Dashboard](./screenshots/dashboard.png)
 
 ### Profile Page
 
-(Add screenshot here)
+![Profile](./screenshots/profile.png)
 
 ### Meeting Room
 
-(Add screenshot here)
+![Meeting Room](./screenshots/meeting-room.png)
 
 ## Challenges Faced
 
